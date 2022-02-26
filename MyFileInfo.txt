@@ -1,0 +1,9 @@
+John is  50 years old and his/her personal id number is   123 and his/her codenumber is
+   21.00    34.00     5.70     6.00  1000.00  1500.00    10.15
+   21.00
+   34.00
+    5.70
+    6.00
+ 1000.00
+ 1500.00
+   10.15
