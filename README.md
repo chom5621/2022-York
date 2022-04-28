@@ -1,3 +1,3 @@
 # 2022-York-MATLAB
 
-## Computing math and statistics
+## Computing math & statistics
