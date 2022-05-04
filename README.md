@@ -3,3 +3,5 @@
 ## Computing math & statistics
 
 * plotting
+
+* linear system
