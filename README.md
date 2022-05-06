@@ -2,6 +2,8 @@
 
 ## Computing math & statistics
 
+* funcions
+
 * vector, matrix calculations
 
 * plotting
