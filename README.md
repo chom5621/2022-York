@@ -2,6 +2,8 @@
 
 ## Computing math & statistics
 
+* vector, matrix calculations
+
 * plotting
 
 * linear system
