@@ -6,6 +6,8 @@
 
 * vector, matrix calculations
 
+* if, while loops
+
 * plotting
 
 * linear system
