@@ -2,7 +2,7 @@
 
 ## Computing math & statistics
 
-* funcions
+* functions
 
 * vector, matrix calculations
 
