@@ -6,7 +6,7 @@
 
 * vector, matrix calculations
 
-* if, while loops
+* if, while, for loops
 
 * plotting
 
